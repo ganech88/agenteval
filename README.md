@@ -2,6 +2,8 @@
 
 SaaS platform for testing and evaluating AI agents. Define eval suites, run them against your agents from CI, track pass@k metrics over time, detect regressions.
 
+> **Live**: https://agenteval-phi.vercel.app
+
 ## Structure
 
 ```
