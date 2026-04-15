@@ -15,6 +15,7 @@ export function ProjectTabs({ projectSlug }: ProjectTabsProps) {
   const tabs = [
     { href: base, label: "Overview" },
     { href: `${base}/suites`, label: "Eval suites" },
+    { href: `${base}/runs`, label: "Runs" },
     { href: `${base}/settings`, label: "Settings" },
   ];
 
